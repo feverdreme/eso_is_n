@@ -1,0 +1,3 @@
+is_n = import is_n
+
+$.print(is_n.is_1(1))
